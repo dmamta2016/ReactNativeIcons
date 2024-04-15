@@ -58,13 +58,13 @@ Now that you have successfully run the app, let's modify it.
    For **iOS**: Hit <kbd>Cmd ⌘</kbd> + <kbd>R</kbd> in your iOS Simulator to reload the app and see your changes!
 
 ## Further package installation
-
+```bash
 npm install react-native-ionicons --save
 
 npm i --save-dev @types/react-native-vector-icons
 
 npx react-native-asset
-
+```
 ### Now what?
 
 - If you want to add this new React Native code to an existing application, check out the [Integration guide](https://reactnative.dev/docs/integration-with-existing-apps).
